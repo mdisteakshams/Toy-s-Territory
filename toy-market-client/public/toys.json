@@ -1,0 +1,56 @@
+[
+    {
+        "vehicle_category_id": "01",
+        "title": "FZS Sports Car(Need For Speed Edition)",
+        "img": "https://i.ibb.co/7b1sCbC/pyx-photography-N8-Prg-BZEYd-U-unsplash.jpg",
+        "price": "2000",
+        "rating": "5 Stars",
+        "description": "Realistic and detailed designs, replicating the appearance of specific sports car models. Included features like aerodynamic body shapes, distinctive paint schemes, and logos or decals representing real car brands.",
+        "Features": ["LED Lights", "Remote Control Functionality", "Automatic Camera"]
+    },
+    {
+        "vehicle_category_id": "01",
+        "title": "Bugatti Chiron",
+        "img": "https://i.ibb.co/nzf19jc/amr-taha-Waf-VOq-Be-Wc8-unsplash.jpg",
+        "price": "1550",
+        "rating": "4 Stars",
+        "description": "Higher-quality with detailed interiors seats, steering wheels, and dashboard designs. These features add to the realism and provide a more immersive experience during play.Have, LED Lights, Remote Control Functionality, Replacable Tyres.",
+        "Features": ["LED Lights", "Remote Control Functionality", "Replacable Tyres"]
+    },
+    {
+        "vehicle_category_id": "02",
+        "title": "Construction Trucks Set",
+        "img": "https://i.ibb.co/YbS9WjQ/mourizal-zativa-s-Clgiq28-VTg-unsplash.jpg",
+        "price": "200",
+        "rating": "5 Stars",
+        "description": "Have movable parts that mimic the actions of real construction vehicles. These can include features like functioning dump beds, extendable booms, rotating cabs, swinging cranes, or lifting buckets. These moving parts allow for interactive play and enable children to simulate construction activities.",
+        "Features": ["AI Generated Pick Up Tools", "LED Lights", "BackPart Can Be Folded"]
+    },
+    {
+        "vehicle_category_id": "02",
+        "title": "Bulldozer",
+        "img": "https://i.ibb.co/9tkhpGW/gabriel-vasiliu-t9-UQrw-Drlp-A-unsplash.jpg",
+        "price": "150",
+        "rating": "3 Stars",
+        "description": "Have additional accessories that enhance the play experience. These can include items like traffic cones, barriers, safety signs, miniature construction tools, or even miniature construction sites or playsets. These accessories allow children to create their own construction scenarios and engage in imaginative play.",
+        "Features": ["Rellay", "Realistic", "Extra Hook"]
+    },
+    {
+        "vehicle_category_id": "03",
+        "title": "Scooter(Vespa)",
+        "img": "https://i.ibb.co/5nCCQZP/computer-detail-connector-jack-rca.jpg",
+        "price": "1075",
+        "rating": "3 Stars",
+        "description": "Have moving wheels that allow them to roll smoothly on various surfaces. Some models may have functional suspension systems that provide a more realistic ride experience.",
+        "Features": ["Extra Tyres", "Remote Control Functionality", "LED Headlights"]
+    },
+    {
+        "vehicle_category_id": "03",
+        "title": "Fire Service Motorbike",
+        "img": "https://i.ibb.co/1TNBTBK/serkan-saban-9-FNz-NL0-Ptw-unsplash.jpg",
+        "price": "250",
+        "rating": "4 Stars",
+        "description": "Have sound effects that imitate engine noises. These sound effects can be activated by pressing buttons or by motion sensors, adding to the immersive play experience.",
+        "Features": ["LED Fire Alarm Sound", "Rechargeable Batteries", "Portable" ]
+    }
+]
