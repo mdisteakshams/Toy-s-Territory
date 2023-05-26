@@ -1,17 +1,19 @@
+# Toy Website
 
-This repository contains the source code for a toy website created using React js for the front-end part, Express.js for the back-end part, and MongoDB as the database. The website is a simple e-commerce platform where users can browse and purchase various toys.
+This repository contains the source code for a toy website created using React for the front-end, Express.js for the back-end, and MongoDB as the database. The website is a simple e-commerce platform where users can browse and purchase various toys.
 
-Features:
-1. User registration and authentication
+## Features
 
-2. Browse toy categories and products
+- User registration and authentication.
+- Browse toy categories and products.
+- Add products to the shopping cart.
+- Place orders and checkout.
+- View order history.
+- Admin panel to manage products, categories, and orders.
 
-3. Add products to the shopping cart
+## Technologies Used
+- **React:** A JavaScript library for building user interfaces.
+- **Express.js:** A web application framework for Node.js.
+- **MongoDB:** A NoSQL database for storing and retrieving data
+- **Mongoose:** An Object Data Modeling (ODM) library for MongoDB and Node.js.
 
-4. Place orders and checkout
-
-5. View order history
-
-6. Admin panel to manage products, categories, and orders
-
-Website Live Link: https://toys-territory.web.app/
